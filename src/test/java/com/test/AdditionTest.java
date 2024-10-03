@@ -13,6 +13,8 @@ public class AdditionTest {
 		b=15;
 		
 		sum=a+b;
+		System.out.println("Let A is:"+a);
+		System.out.println("Let B is:"+b);
 		System.out.println("Sum of A and B is:"+sum);
 	}
 
